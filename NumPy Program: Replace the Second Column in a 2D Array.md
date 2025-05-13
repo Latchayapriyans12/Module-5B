@@ -24,5 +24,8 @@ print(a)
 ```
 
 ## Output
+![image](https://github.com/user-attachments/assets/f0a45e07-b887-4591-afbf-fb6fc6a3dcc5)
+
 
 ## Result
+Thus, the program has been successfully executed.
